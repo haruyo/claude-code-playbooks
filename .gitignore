@@ -1,0 +1,25 @@
+# 認証情報（絶対にコミットしない）
+client_secret.json
+token.json
+*.client_secret.json
+
+# 手順実行中に生成される作業ファイル・データ
+config.py
+ga4_data.json
+sc_data.json
+profile.md
+blog_ideas_*.md
+annual_report_*.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
