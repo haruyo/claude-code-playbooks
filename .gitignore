@@ -10,6 +10,7 @@ sc_data.json
 profile.md
 blog_ideas_*.md
 annual_report_*.md
+security_診断結果_*.md
 
 # Python
 __pycache__/
